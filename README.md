@@ -10,4 +10,4 @@ Soy un estudiante de ASIR en proceso de aprendizaje en [IES Zaidín Vergeles](ht
 - Administración de servidores.
 
 <!-- Imagen, aún no funciona el link -->
-![Fallo al cargar la imagen!](/home/alumnom/Descargas/G1FTny4WIAAcTaN.jpeg)
+![Fallo al cargar la imagen!](./G1FTny4WIAAcTaN.jpeg)
