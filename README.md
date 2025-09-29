@@ -1,6 +1,6 @@
-# Holoo 👽✌️
+# Holoo
 
-Soy un estudiante de ASIR en proceso de aprendizaje en [IES Zaidín Vergeles](https://www.ieszaidinvergeles.org/) ✨ᕙ(^▿^-ᕙ)
+Soy un estudiante de ASIR en [IES Zaidín Vergeles](https://www.ieszaidinvergeles.org/)
 
 ## Mis habilidades informáticas:
 
